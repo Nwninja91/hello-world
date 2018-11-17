@@ -1,0 +1,2 @@
+# hello-world
+This repo was designed to be a collaberation of software and other files that will hopefully automate (somewhat) the new linux user's experience, and hopefully provide the user an experience that is not only easy to follow but fun as well. Even though there are distros specifically geared towards making the move from windows to linux "easier", I thought that there needed to be something more "user-friendly".
